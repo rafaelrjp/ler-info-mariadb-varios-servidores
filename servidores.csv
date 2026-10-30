@@ -1,0 +1,5 @@
+# Um servidor por linha, campos separados por ponto e vírgula.
+# porta é opcional (padrão 3306). Linhas começando com # são ignoradas.
+# Se a senha tiver ";", coloque-a entre aspas duplas: "minha;senha"
+host;porta;usuario;senha
+
